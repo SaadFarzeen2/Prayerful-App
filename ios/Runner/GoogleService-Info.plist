@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>345450523909-sb17m8ig8miaencc5oeqriotvclgudiv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.345450523909-sb17m8ig8miaencc5oeqriotvclgudiv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>345450523909-ej2rbv0amp4njbn2vn1gadrnnjm553gl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2Al_1k6npFwjzCJZSmwds8-HIPzAA0_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>345450523909</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.prayrful</string>
+	<key>PROJECT_ID</key>
+	<string>prayrful</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prayrful.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:345450523909:ios:c6be0f571e73da419bdb6c</string>
+</dict>
+</plist>

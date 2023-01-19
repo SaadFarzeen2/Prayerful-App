@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345450523909",
+    "project_id": "prayrful",
+    "storage_bucket": "prayrful.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345450523909:android:c6fa48e8989750cb9bdb6c",
+        "android_client_info": {
+          "package_name": "com.example.prayrful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345450523909-ej2rbv0amp4njbn2vn1gadrnnjm553gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prayrful",
+            "certificate_hash": "c824a66e45457d6abe4ffaa32bf8cf1ee8016f3b"
+          }
+        },
+        {
+          "client_id": "345450523909-uesb06o6a3joq1ra8g2qkm8p4v7mevv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxwNQ-Jg1mY7HxlRC9dR_ED6RCINKZpt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345450523909-uesb06o6a3joq1ra8g2qkm8p4v7mevv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
