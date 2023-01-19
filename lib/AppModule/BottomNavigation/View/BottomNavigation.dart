@@ -112,6 +112,28 @@ class _BottomNavigationState extends State<BottomNavigation> {
                           currentTab = 0;
                         });
                       },
+                      //  Column(
+                      //   mainAxisAlignment: MainAxisAlignment.center,
+                      //   children: <Widget>[
+                      //     Image.asset(
+                      //       'assets/images/home.png',
+                      //       color: currentTab == 0
+                      //           ? AppColors.PRIMARY_COLOR
+                      //           : AppColors.BLACK_COLOR,
+                      //       height: Get.height * 0.02,
+                      //     ),
+                      //     SizedBox(
+                      //       height: Get.height * 0.008,
+                      //     ),
+                      //     AppText(
+                      //         text: 'Home',
+                      //         size: AppDimensions.FONT_SIZE_12,
+                      //         fontFamily: Weights.regular,
+                      //         color: currentTab == 0
+                      //             ? AppColors.PRIMARY_COLOR
+                      //             : AppColors.BLACK_COLOR)
+                      //   ],
+                      // ),
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: <Widget>[
